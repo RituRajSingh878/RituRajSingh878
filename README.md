@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=riturajsingh878.github.io/&style=for-the-badge&url=https%3A%2F%2Friturajsingh878.github.io/)](https://riturajsingh878.github.io/)
 
-## I'm a Student, Son, Developer, and Learner!
+## I'm a Student, Developer, and Learner!
 
 - 🔭 I’m currently working on machine learning projects
 - 🌱 I’m currently learning everything 🤣
