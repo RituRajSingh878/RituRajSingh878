@@ -38,16 +38,6 @@
 <br />
 <br />
 
----
-
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-Will update
-<!-- BLOG-POST-LIST:END -->
-
-<!-- ➡️ [more blog posts...](https://riturajsingh878.github.io/talks-interviews/) -->
 
 ---
 
