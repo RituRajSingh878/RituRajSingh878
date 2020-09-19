@@ -50,7 +50,7 @@
 
 [website]: https://riturajsingh878.github.io/
 [twitter]: https://twitter.com/RituRajSingh878/
-[instagram]: https://www.instagram.com/____rituraj____/
+[instagram]: https://www.instagram.com/unknown_rituraj/
 [linkedin]: https://www.linkedin.com/in/ritu-raj-singh-786aa7160
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
