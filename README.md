@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on machine learning projects
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to work with other creators
-- 🥅 2020 Goals: Contribute more to machine learning projects
+- 🥅 2021 Goals: Contribute more to machine learning projects
 - ⚡ Fun fact: I'm learning skating board
 
 ### Connect with me:
