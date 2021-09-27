@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to work with other creators
 - 🥅 2021 Goals: Contribute more to machine learning projects
-- ⚡ Fun fact: I'm learning skating board
+- ⚡ Fun fact: You can't plan everything.
 
 ### Connect with me:
 
