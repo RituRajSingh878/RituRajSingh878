@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on machine learning projects
 - 🌱 I’m currently learning .... 🤣
 - 👯 I’m looking to work with other creators
-- 🥅 2021 Goals: Contribute more to machine learning projects
 - ⚡ Fun fact: You can't plan everything.
 
 ### Connect with me:
