@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=riturajsingh878.github.io/&style=for-the-badge&url=https%3A%2F%2Friturajsingh878.github.io/)](https://riturajsingh878.github.io/)
 
-## I'm a Software Engineeer, Developer, and Learner!
+## I'm a Human Software Engineeer, Developer, and Learner!
 
 - 🌱 Go Green.
 - 👯 Urgent Need of a collaborator for issues in my life.
