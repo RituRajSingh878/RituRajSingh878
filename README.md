@@ -2,12 +2,11 @@
 
 [![Website](https://img.shields.io/website?label=riturajsingh878.github.io/&style=for-the-badge&url=https%3A%2F%2Friturajsingh878.github.io/)](https://riturajsingh878.github.io/)
 
-## I'm a Student, Developer, and Learner!
+## I'm a Software Engineeer, Developer, and Learner!
 
-- 🔭 I’m currently working on machine learning projects
-- 🌱 I’m currently learning .... 🤣
-- 👯 I’m looking to work with other creators
-- ⚡ Fun fact: You can't plan everything.
+- 🌱 Go Green.
+- 👯 Urgent Need of a collaborator for issues in my life.
+- ⚡ Fun fact: Everything that is happening is in your brain only!!.
 
 ### Connect with me:
 
