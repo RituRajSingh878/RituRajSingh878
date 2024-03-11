@@ -6,7 +6,7 @@
 
 - 🌱 Go Green.
 - 👯 Urgent Need of a collaborator for issues in my life.
-- ⚡ Fun fact: Everything that is happening is in your brain only!!.
+- ⚡ Fun fact: There are only ~10k stars visible to naked eyes!!.
 
 ### Connect with me:
 
